@@ -1,11 +1,11 @@
 Faculdade Uniesp
 Curso:Ciência da Computação
-Disciplina:Tópicos Essencias da Programação
+Disciplina:Introdução a Programação
 Nome:Bruno de Araújo
 
 
 
-Respota da Lista de Exercicios
+Respota da Lista de Exercícios
 
 Questão 01:
 
@@ -13,4 +13,14 @@ Questão 01:
 Questão 02:
 
 
-Questão 03:
+Questão 04:
+
+
+
+Questão 05:
+
+
+Questão 06:
+
+
+Questão 10:
